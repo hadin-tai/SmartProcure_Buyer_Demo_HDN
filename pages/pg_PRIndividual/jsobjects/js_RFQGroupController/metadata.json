@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "6adf0fcb7071f0a612e9703e_ba99a290-3a39-4420-bb2e-599d6c924652",
+  "id": "pg_PRIndividual_js_RFQGroupController",
+  "unpublishedCollection": {
+    "name": "js_RFQGroupController",
+    "pageId": "pg_PRIndividual",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "sessionState",
+        "value": "null"
+      }
+    ]
+  }
+}

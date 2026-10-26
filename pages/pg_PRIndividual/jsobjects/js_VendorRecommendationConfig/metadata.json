@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "6adf0fcb7071f0a612e9703e_70c8c544-4d0c-432b-bb1a-edc42dba738e",
+  "id": "pg_PRIndividual_js_VendorRecommendationConfig",
+  "unpublishedCollection": {
+    "name": "js_VendorRecommendationConfig",
+    "pageId": "pg_PRIndividual",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}
